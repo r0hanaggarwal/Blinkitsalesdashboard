@@ -3,7 +3,6 @@
 This project features an **interactive Power BI dashboard** that analyzes Blinkit's retail performance, customer behavior, and inventory metrics using real-world-style data. It uncovers actionable insights for **sales optimization**, **product strategy**, and **location-based performance**.
 
 ---
-
 ## 🎯 Objective
 
 To provide a data-driven overview of Blinkit's sales distribution, customer satisfaction trends, and outlet performance to help optimize business strategy and profitability.
